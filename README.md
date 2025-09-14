@@ -1,2 +1,1 @@
 My Machine Learning project for CSEN140. A set of Machine Learning models geared around predicting the winner of matches in Guilty Gear -Strive- using data collected by Rating Update, an open-source match-collecting tool.
-# lock-and-roll-public
